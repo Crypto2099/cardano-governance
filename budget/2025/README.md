@@ -94,8 +94,8 @@ with them what you will.
 
 Signed,
 
-Adam K. Dean
-Vice Chair Technical Steering Committee
-Vice Chair Open Source Committee
-CIP Editor
-Concerned Citizen
+**Adam K. Dean**<br />
+_Vice Chair Technical Steering Committee_<br />
+_Vice Chair Open Source Committee_<br />
+_CIP Editor_<br />
+_Concerned Citizen_
