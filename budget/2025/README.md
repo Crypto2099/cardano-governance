@@ -47,6 +47,11 @@ method of execution is the right choice for Cardano, particularly for the 2025
 budget year. I have much faith and respect for my fellow committee members but
 no confidence for the execution.
 
+I believe the TSC is self-defining their remit and creating additional process
+burden upon Intersect absent a clear mandate from the Board or Intersect
+Leadership. What is the intended role of the TSC in the budget process? I don't
+know, that's part of the problem.
+
 My lack of faith stems from lack of strong leadership (servant or otherwise) and
 vision setting from the Intersect executive leadership team. Committee mandates
 are unclear, processes change rapidly, and questions are met with bureaucratic
