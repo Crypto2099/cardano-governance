@@ -91,3 +91,11 @@ ALL BUDGETS MUST include detailed information regarding their transparency and
 audit processes. A single Administrator SHOULD NOT BE responsible for more than
 33% of the Cardano ecosystem annual Net Change Limit. These are my opinions, do
 with them what you will.
+
+Signed,
+
+Adam K. Dean
+Vice Chair Technical Steering Committee
+Vice Chair Open Source Committee
+CIP Editor
+Concerned Citizen
